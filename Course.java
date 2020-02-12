@@ -1,4 +1,4 @@
-/**
+tand /**
  * Course class with a name and capcaity size
  * @author Eddie Xu
  */
